@@ -6,3 +6,4 @@ Engine: Urho3D.
 * `CellComponent` - Visual component for `Cell`.
 * `Cells` - Logic for board.
 * `Minesweeper` - Urho3D application, events, UI, input etc.
+* `CMakeLists.txt` - Urho3d build script.
